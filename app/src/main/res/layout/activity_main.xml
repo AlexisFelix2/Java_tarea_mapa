@@ -19,7 +19,7 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="16dp"
             android:gravity="center"
-            android:text="Planificador de Rutas"
+            android:text="Rutas Mapas"
             android:textColor="@color/text_primary"
             android:textSize="22sp"
             android:textStyle="bold" />
