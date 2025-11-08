@@ -1,5 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- Paleta moderna - Gradientes azul/violeta -->
+    <color name="primary_color">#FF6366F1</color>          <!-- Índigo moderno -->
+    <color name="primary_light">#FF818CF8</color>          <!-- Índigo claro -->
+    <color name="primary_dark">#FF4338CA</color>           <!-- Índigo oscuro -->
+
+    <color name="secondary_color">#FF06B6D4</color>        <!-- Cian moderno -->
+    <color name="secondary_light">#FF22D3EE</color>        <!-- Cian claro -->
+
+    <color name="accent_color">#FF8B5CF6</color>           <!-- Violeta -->
+    <color name="success_color">#FF10B981</color>          <!-- Verde esmeralda -->
+    <color name="warning_color">#FFF59E0B</color>          <!-- Ámbar -->
+
+    <color name="selected_color">#FF6366F1</color>
+    <color name="transport_default">#FFFFFFFF</color>
+
+    <!-- Colores para iconos -->
+    <color name="car_color">#FFEF4444</color>              <!-- Rojo coral -->
+    <color name="bike_color">#FF10B981</color>             <!-- Verde esmeralda -->
+    <color name="walk_color">#FF6366F1</color>             <!-- Índigo -->
+
+    <!-- Colores de fondo -->
+    <color name="background_primary">#FF0F172A</color>     <!-- Azul noche oscuro -->
+    <color name="background_secondary">#FF1E293B</color>   <!-- Azul pizarra -->
+    <color name="surface_color">#FF334155</color>          <!-- Azul acero -->
+
+    <!-- Colores de texto -->
+    <color name="text_primary">#FFFFFFFF</color>
+    <color name="text_secondary">#FFCBD5E1</color>
+    <color name="text_accent">#FF6366F1</color>
 </resources>
